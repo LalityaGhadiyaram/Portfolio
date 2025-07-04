@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://localhost:1313/it/authors/</loc>
+    <loc>https://lalityaghadiyaram.github.io/Portfolio/it/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/authors/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/authors/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/ja/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/authors/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/authors/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/it/authors/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/it/</loc>
+    <loc>https://lalityaghadiyaram.github.io/Portfolio/it/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/ja/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/it/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/it/categories/</loc>
+    <loc>https://lalityaghadiyaram.github.io/Portfolio/it/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/categories/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/categories/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/ja/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/categories/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/categories/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/it/categories/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/it/series/</loc>
+    <loc>https://lalityaghadiyaram.github.io/Portfolio/it/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/series/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/series/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/ja/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/series/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/series/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/it/series/"
     />
   </url>
   <url>
-    <loc>https://localhost:1313/it/tags/</loc>
+    <loc>https://lalityaghadiyaram.github.io/Portfolio/it/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://localhost:1313/tags/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="https://localhost:1313/ja/tags/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/ja/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://localhost:1313/zh-cn/tags/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="https://localhost:1313/it/tags/"
+      href="https://lalityaghadiyaram.github.io/Portfolio/it/tags/"
     />
   </url>
 </urlset>
